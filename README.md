@@ -47,7 +47,7 @@ This repository is designed to make Forex market API coverage easier to discover
 
 ## Links
 
-- Website: https://kun.pro/markets/forex-market-data-api
+- Website: https://kun.pro/stocks-en.html
 - Docs: https://kun.pro/docs-en.html
 - Main site: https://kun.pro
 
